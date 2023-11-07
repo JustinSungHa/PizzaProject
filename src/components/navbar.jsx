@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { ShoppingCart } from "phosphor-react";
 import "./navbar.css";
 
+/* navbar resized shoppingcart icon and the word "shop" */
 export const Navbar = () => {
   return (  
     <div className='navbar'>
